@@ -1,0 +1,187 @@
+#content {
+    /*
+    color: #a9b7c6;
+    background-color: #3c4041;
+*/
+    width: 98%;
+}
+
+#content h1, h2, h3, h4 {
+    color: #ffffff;
+}
+
+#context-menu li {
+    border: 1px solid #333333;
+}
+
+#context-menu ul {
+    background: #45474a;
+    color: #a9b7c6;
+}
+
+#footer {
+    background: #3c4041;
+}
+
+#header {
+    background: linear-gradient(#000046, #1cb5e0);
+    padding: 20px 8px 40px 20px;
+}
+
+#history h1, div.wiki h1 {
+    border-bottom: 1px solid #666666;
+    border-left: 10px solid #666666;
+    padding-left: 4px;
+}
+
+#issue-form select {
+    background: #45474a;
+    color: #ffffff;
+}
+
+#issue-form textarea ,#issue-form input[type="text"],#issue-form .check_box_group {
+    background: #45474a;
+    border: 1px solid #d7d7d7;
+    color: #ffffff;
+    /*    color: #a9b7c6; */
+}
+
+#login-form form table {
+    background-color: #bdbdbd;
+}
+
+#login-form tr td label {
+    color: #1c5485;
+}
+
+#main-menu li a {
+    background-color: #116b84;
+    border-radius: 20px;
+    color: #ffffff;
+    margin: 4px;
+}
+
+#main-menu li a.selected {
+    color: #ffff1b;
+}
+
+#main-menu li a:hover {
+    background-color: #333333;
+}
+
+#preview fieldset {
+    background: repeating-linear-gradient(-45deg, #3c4041, #3c4041 10px, #888 0, #888 20px);
+}
+
+#sidebar {
+    display: none;
+}
+
+#top-menu {
+    background-color: #000046;
+    padding-top: 10px;
+}
+
+#top-menu li a {
+    color: #ffffff;
+}
+
+.box {
+    background-color: #2b2b2b;
+}
+
+.box label {
+    color: #ffffff;
+}
+
+.code.syntaxhl .integer {
+}
+
+.code.syntaxhl .predefined-type {
+}
+
+.even {
+    background: #3c4041;
+}
+
+.odd {
+    background: #5c6163;
+    /*
+    background: #767d7f;
+*/
+}
+
+a, a:link, a:visited {
+    color: #ffc66d;
+}
+
+body, #wrapper, #content {
+    background-color: #3c4041;
+    color: #cccccc;
+}
+
+code.syntaxhl .class {
+    color: #c47633;
+}
+
+code.syntaxhl .content {
+    color: #688457;
+}
+
+code.syntaxhl .delimiter {
+    color: #688457;
+}
+
+code.syntaxhl .keyword {
+    color: #9878a4
+;
+}
+
+code.syntaxhl .type {
+    color: #c47633;
+}
+
+/*- フォーム -*/
+
+div.issue {
+    background-color: #2b2b2b;
+}
+
+div.members.box .label {
+    color: #cccccc;
+}
+
+div.wiki pre {
+    background-color: #45474a;
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+input[type="submit"] {
+    background-color: #f2f2f2;
+    border: 1px outset #cccccc;
+    color: #222222;
+    font-size: 20px;
+    padding: 12px 40px;
+}
+
+legend {
+    color: #cccccc;
+}
+
+strong {
+    color: #ff6699;
+}
+
+table.list th a {
+    color: #ffffff;
+}
+
+table.list th, .table-list-header {
+    background-color: #45474a;
+}
+
+table.list tr:hover {
+    background-color: #666666;
+}
+
+
