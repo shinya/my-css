@@ -94,6 +94,13 @@
     color: #ffffff;
 }
 
+code {
+    color: #ED7BAF;
+    border-radius: 4px;
+    border: #e2e2e2 1px solid;
+    background: #606266;
+}
+
 .code.syntaxhl .integer {
 }
 
@@ -142,6 +149,8 @@ code.syntaxhl .type {
 }
 
 /*- フォーム -*/
+
+/*------------*/
 
 div.issue {
     background-color: #2b2b2b;
